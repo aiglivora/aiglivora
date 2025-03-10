@@ -4,8 +4,7 @@
 <h2 align="center">Hi 👋, I'm Hieu</h2>
 
 <br />
-
-I'm looking for an apprenticeship in Big Data and AI.
+<p align="center"> I'm looking for an apprenticeship in Big Data and AI.
 
 **About me**
 
@@ -16,7 +15,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 
 ![](https://komarev.com/ghpvc/?username=aiglivora&style=flat-square)
 
-### 📫 How to reach me:
+#### 📫 How to reach me:
 
 <p align="center">
   <a href="https://linkedin.com/in/XXX" target="_blank">
@@ -30,7 +29,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
   </a>
 </p>
 
-### Skills:
+#### Skills:
 <p align="center">
   <img src="https://img.icons8.com/?size=48&id=13441&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000)"/> 
@@ -68,7 +67,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 <br />
 <br />
 
-### Certificates:
+#### Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
