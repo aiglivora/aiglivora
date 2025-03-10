@@ -3,15 +3,11 @@
 
 <h2 align="center">Hi 👋, I'm Hieu</h2>
 
-<br />
 <h3 align="center"><b>I'm looking for an apprenticeship in Big Data and AI.</span></b></h3>
 
 **About me**
 
 With a strong passion for cutting-edge technologies and innovation, I'm using my scientific R&D experience to pursue a career in Big Data and AI.
-
-
-<br />
 
 ![](https://komarev.com/ghpvc/?username=aiglivora&style=flat-square)
 
@@ -29,7 +25,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
   </a>
 </p>
 
-#### Skills:
+#### 🛠 Skills:
 <p align="center">
   <img src="https://img.icons8.com/?size=48&id=13441&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000)"/> 
@@ -38,12 +34,11 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   <img src="https://img.icons8.com/?size=48&id=F4uMFPZgS0gt&format=png&color=000000"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-
 </p>
 
-### Activities:
+### 🚀 Activities:
 
-<table style="width:100%;">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiglivora&layout=compact&theme=shadow_green&hide_border=false"/>
@@ -57,17 +52,17 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
   </tr>
 </table>
 
-#### Top Repositories
+---
 
+#### 🔝 Top Repositories
 
 <a href="https://github.com/aiglivora/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=Case-Study-Bellabeat&theme=shadow_green" />
 </a>
 
-<br />
-<br />
+---
 
-#### Certificates:
+#### 🎓 Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
