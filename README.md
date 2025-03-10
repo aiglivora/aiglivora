@@ -48,9 +48,8 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiglivora&layout=compact&theme=shadow_green&hide_border=true"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=aiglivora&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true" alt="Anurag's github stats"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=aiglivora&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hieu's%20Github%20Stats" alt="Hieu" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiglivora&layout=compact&theme=shadow_green&hide_border=false"/>
+      <img center" src="https://github-readme-stats.vercel.app/api?username=aiglivora&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=false&custom_title=Hieu's%20Github%20Stats" alt="Hieu" width="100%"/>
     </td>
     <td>
       <p align="center"> 
