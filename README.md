@@ -62,8 +62,8 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 #### Top Repositories
 
 
-<a href="https://github.com/aiglivora/Case-Study-Bellabeat">
-  <img align="center" src="https://Case-Study-Bellabeat.vercel.app/api/pin/?username=aiglivora&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/aiglivora/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=Case-Study-Bellabeat&theme=shadow_green" />
 </a>
 
 <br />
