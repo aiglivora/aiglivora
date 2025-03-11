@@ -60,7 +60,9 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=Case-Study-Bellabeat&theme=shadow_green" />
 </a>
 
----
+<a href="https://github.com/aiglivora/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=Kids_reminder_timer_program&theme=shadow_green" />
+</a>
 
 #### 🎓 Certificates:
 
