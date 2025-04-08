@@ -11,7 +11,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 #### 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/XXX" target="_blank">
+  <a href="https://www.linkedin.com/in/trung-hieu-nguyen-6952a1356" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://github.com/aiglivora" target="_blank" alt="Github">
