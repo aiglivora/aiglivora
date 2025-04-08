@@ -1,9 +1,6 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-
-
 <h2 align="center">Hi 👋, I'm Hieu</h2>
 
-<h3 align="center"><b>I'm looking for an apprenticeship in Big Data and AI.</span></b></h3>
+<h3 align="center"><b>I'm looking for an apprenticeship in Big Data and AI.</b></h3>
 
 **About me**
 
@@ -17,7 +14,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
   <a href="https://linkedin.com/in/XXX" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://github.com/aiglivora" alt="Github">
+  <a href="https://github.com/aiglivora" target="_blank" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:trung-hieu.nguyen@outlook.com" alt="Email">
@@ -28,7 +25,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 #### 🛠 Skills:
 <p align="center">
   <img src="https://img.icons8.com/?size=48&id=13441&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000)"/> 
+  <img src="https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000"/> 
   <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
@@ -39,8 +36,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 ### 🚀 Activities:
 | <a href="https://github.com/aiglivora/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aiglivora&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/aiglivora/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiglivora&layout=compact&theme=shadow_green&hide_border=true" /></a> | <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="68%"/>
 | ------------- | ------------- | 
-------------- |
-
+      ------------- |
 
 #### 🔝 Top Repositories
 <a href="https://github.com/aiglivora/github-readme-stats">
@@ -63,4 +59,3 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/X3TSHAVIEZQW)
-
