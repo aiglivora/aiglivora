@@ -37,22 +37,10 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 </p>
 
 ### 🚀 Activities:
+| <a href="https://github.com/aiglivora/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aiglivora&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/aiglivora/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiglivora&layout=compact&theme=shadow_green&hide_border=true" /></a> | <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="68%"/>
+| ------------- | ------------- | 
+------------- |
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiglivora&layout=compact&theme=shadow_green&hide_border=false"/>
-      <img center" src="https://github-readme-stats.vercel.app/api?username=aiglivora&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green&hide_border=false&custom_title=Hieu's%20Github%20Stats" alt="Hieu" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 #### 🔝 Top Repositories
 <a href="https://github.com/aiglivora/github-readme-stats">
