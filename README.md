@@ -67,6 +67,9 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=Case-Study-Bellabeat&theme=shadow_green" />
 </a>
 
+<br />
+<br />
+
 #### 🎓 Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
