@@ -40,6 +40,10 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 
 #### 🔝 Top Repositories
 <a href="https://github.com/aiglivora/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=Titanic_Kaggle&theme=shadow_green" />
+</a>
+
+<a href="https://github.com/aiglivora/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=French-Cities-Visualization&theme=shadow_green" />
 </a>
 
