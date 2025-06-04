@@ -52,7 +52,7 @@ With a strong passion for cutting-edge technologies and innovation, I'm using my
 </a>
 
 <a href="https://github.com/aiglivora/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=Case-Study-Bellabeat&theme=shadow_green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiglivora&repo=monthly-budget-tracker-n8n&theme=shadow_green" />
 </a>
 
 <br />
